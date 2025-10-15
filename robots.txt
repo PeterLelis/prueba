@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://peterlelis.github.io/prueba/sitemap.xml
